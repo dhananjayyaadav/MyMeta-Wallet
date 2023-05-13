@@ -1,7 +1,3 @@
-### Live verify files
-Check gh-pages files against live website at https://www.myetherwallet.com
-
-
 ### `mercury` is the development branch. gh-pages contains only the smaller dist folder only and is served to MyEtherWallet.com
 
 ### MyMetaWallet
@@ -15,12 +11,8 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 - Access your wallet via unencrypted private key, encrypted private key, keystore files, mnemonics, or BitBox, Ledger Nano S or TREZOR hardware wallet.
 - Easily send ETH and *any* ERC-20 Standard Token. [Many tokens included as default.](https://myetherwallet.groovehq.com/knowledge_base/topics/can-i-send-my-steem-slash-btc-slash-ltc-slash-nem-slash-to-myetherwallet)
 - Generate, sign & send transactions offline, ensuring your private keys never touch an internet-connected device.
-- Securely access your ETH & Tokens on your [BitBox, Ledger or TREZOR Hardware Wallet](https://myetherwallet.groovehq.com/knowledge_base/topics/hardware-wallet-recommends) via the MyEtherWallet interface (Chrome & Opera natively, Firefox w/ [add-on](https://addons.mozilla.org/en-US/firefox/addon/u2f-support-add-on/))
+- Securely access your ETH & Tokens on your [BitBox, Ledger or TREZOR Hardware Wallet]recommends) via the MyEtherWallet interface (Chrome & Opera natively, Firefox w/ [add-on]
 - Now in 18 languages thanks 100% to the amazing Ethereum community.
-- Supports URI Strings on Send Transaction Page.
-transaction
-
-
 
 ### Our Philosophy
 
@@ -33,18 +25,6 @@ transaction
  - **Private**: No tracking!!! No emails. No ads. No demographics. We don't even know how many wallets have been generated, let alone who / what / where you are.
 In case you are not familiar, you need to keep the entire folder in order to run the website, not just index.html. Don't touch or move anything around in the folder. If you are storing a backup of the MyEtherWallet repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact.
 
-As we are constantly updating MyEtherWallet.com, we recommend you periodically update your saved version of the repo.
-
-
-### Use Your Own Servers / Node Guide
-
-- [Setting up on AWS super easily.](https://github.com/MyEtherWallet/docker-geth-lb)
-
-- [Running MyEtherWallet w/ Your Own Personal Node](https://kb.myetherwallet.com/networks/run-your-own-node-with-myetherwallet.html)
-
-- [Guide by benjaminion for MEW + Ledger Nano S + Local Parity Node](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet)
-
-
 **If you are NOT a developer and have no idea how this works:**
 
 Anyone can help out and it looks way more complicated than it is! If you would rather not deal with Github, please send us an email to info@myetherwallet.com and I'll email you the file and you can make changes and send it back to us and I'll make sure you don't screw anything up. If you feel like experiencing something new, read on!
@@ -54,6 +34,3 @@ Anyone can help out and it looks way more complicated than it is! If you would r
 
 **If you are a developer and familiar with GitHub, Pull Requests, and know how to save a JS file as a .js file rather than a Word Doc:**
 
-### Contact
-If you can think of any other features or run into bugs, let us know. You can fork, open a PR, open an issue, or support at myetherwallet dot com.
-#### MyEtherWallet.com & MyEtherWallet CX are licensed under The MIT License (MIT).
