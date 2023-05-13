@@ -1,7 +1,3 @@
-- etherwallet-vX.X.X.X.zip is the smaller package containing the gh-pages branch aka MyEtherWallet.com
-- chrome-extension-vX.X.X.X.zip is the chrome extension package
-- source code is the full source for developers to get started with (although cloning or forking the mercury branch is probably a better choice)
-
 ### Live verify files
 Check gh-pages files against live website at https://www.myetherwallet.com
 
