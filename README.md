@@ -30,5 +30,3 @@ Anyone can help out and it looks way more complicated than it is! If you would r
 11. That's it. You successfully made a new pull request! Tell all your friends.
 12. We will now review it and pull it in and it will be made live on the site. We may also ask you questions if something is confusing for whatever reason.
 
-**If you are a developer and familiar with GitHub, Pull Requests, and know how to save a JS file as a .js file rather than a Word Doc:**
-
